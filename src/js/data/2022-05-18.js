@@ -1102,7 +1102,7 @@ dataSet[dataSetVersion].characterData = [
   },
   { 
     name: "Crows (Rest in Bigger Pieces Mix)", 
-    img: "3iNNL0c.png", 
+    img: "exgnG2G.png", 
       opts: {
         Album: ["NYM"],
         stage: []
