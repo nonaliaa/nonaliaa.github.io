@@ -371,7 +371,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "A Good Bridge to Never Cross Until There's No Doubt That He's Dead ",
-    img: "n4TNDGB.png",
+    img: "XGbcwHR.png",
     opts: {
       Album: ["4"],
       stage: ["st6", "ex"]
@@ -379,7 +379,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Who Even Knows",
-    img: "n4TNDGB.png",
+    img: "XGbcwHR.png",
     opts: {
       Album: ["4"],
       stage: ["ex"]
@@ -387,7 +387,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Even the Who Knows ",
-    img: "n4TNDGB.png",
+    img: "XGbcwHR.png",
     opts: {
       Album: ["4"],
       stage: ["st5"]
@@ -395,7 +395,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Not \"Kidding\" Around",
-    img: "n4TNDGB.png",
+    img: "XGbcwHR.png",
     opts: {
       Album: ["4"],
       stage: ["st6"]
@@ -403,7 +403,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Heartless Dick",
-    img: "n4TNDGB.png",
+    img: "XGbcwHR.png",
     opts: {
       Album: ["4"],
       stage: ["st1"]
@@ -411,7 +411,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dickless Heart",
-    img: "n4TNDGB.png",
+    img: "XGbcwHR.png",
     opts: {
       Album: ["4"],
       stage: ["st1"]
@@ -419,7 +419,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Feel Like Daniel Johnston",
-    img: "n4TNDGB.png",
+    img: "XGbcwHR.png",
     opts: {
       Album: ["4"],
       stage: ["st2"]
@@ -427,7 +427,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Ghost of Bob Saget",
-    img: "n4TNDGB.png",
+    img: "XGbcwHR.png",
     opts: {
       Album: ["4"],
       stage: ["st3"]
@@ -435,7 +435,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Around",
-    img: "n4TNDGB.png",
+    img: "XGbcwHR.png",
     opts: {
       Album: ["4"],
       stage: ["st4"]
@@ -443,7 +443,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Leave Togther",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st4", "st5", "st6"]
@@ -451,7 +451,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "I Don't Want You",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st6"]
@@ -459,7 +459,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "I Am Afraid of Literally Everything",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["ex"]
@@ -467,7 +467,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "100 Minutes of Solitude",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st1", "st5"]
@@ -475,7 +475,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Neon Sign",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st2", "ex"]
@@ -483,7 +483,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Samson's Golden Axe",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st3"]
@@ -491,7 +491,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "I Scream Social",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st4"]
@@ -499,7 +499,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Wachovia Receipts",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st5"]
@@ -507,7 +507,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Singles Song",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st6"]
@@ -515,7 +515,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Get Better Get Well",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st4", "st6", "ex"]
@@ -523,7 +523,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Squid Desert",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["ex"]
@@ -531,7 +531,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ff",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st1", "st2", "st3"]
@@ -539,7 +539,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nothing",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st1", "st2", "st3"]
@@ -547,7 +547,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Surf Jerk",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st1", "st2", "st3"]
@@ -555,7 +555,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "A Pleasant Sort of Terror",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st2"]
@@ -563,7 +563,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Total Burn",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st3", "st4"]
@@ -571,7 +571,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Staying Song",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st4"]
@@ -579,7 +579,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "I CAN TALK WITH MY EYES SHUT",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st5"]
@@ -587,7 +587,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "The Vice President of Google and et al",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st5"]
@@ -595,7 +595,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hot Sun",
-    img: "UNG6vJR.png",
+    img: "TWBituW.png",
     opts: {
       Album: ["LPOP"],
       stage: ["st6"]
